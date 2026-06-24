@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/index.json"
+    },
+    {
+      "src": "/serverdata",
+      "dest": "/serverdata.json"
+    }
+  ]
+}
