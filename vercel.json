@@ -7,6 +7,10 @@
     {
       "src": "/serverdata",
       "dest": "/serverdata.json"
+    },
+    {
+      "src": "/banned_urls",
+      "dest": "/banned_urls.json"
     }
   ]
 }
