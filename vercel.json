@@ -11,6 +11,10 @@
     {
       "src": "/banned_urls",
       "dest": "/banned_urls.json"
+    },
+    {
+      "src": "/chat",
+      "dest": "/chat.js"
     }
   ]
 }
