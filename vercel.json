@@ -14,7 +14,7 @@
     },
     {
       "src": "/chat",
-      "dest": "/chat.js"
+      "dest": "/api/chat.js"
     }
   ]
 }
